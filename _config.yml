@@ -6,20 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: Pretty9's website
+title: wanghe's website
 
 # Your name to show in the footer
-author: Pretty9
+author: wanghe
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  关于: "aboutme"
-  标签: "tags"
+  關于: "aboutme"
+  標簽: "tags"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  主页: "https://www.2yo.cc/"
+  主頁: "https://www.2yo.cc/"
 
 # --- Logo --- #
 
