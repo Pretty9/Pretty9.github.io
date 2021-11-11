@@ -14,11 +14,12 @@ author: Pretty9
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  关于: "aboutme"
+  标签: "tags"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://pretty9.where.icu"
+  主页: "https://www.2yo.cc/"
 
 # --- Logo --- #
 
@@ -46,7 +47,7 @@ social-network-links:
   twitter: WangHe2077
 #  patreon: DeanAttali
 #  youtube: c/daattali
-  medium: pretty9
+  medium: Pretty9
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -79,7 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Pretty9.where.icu"
+url-pretty: "2yo.cc"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
